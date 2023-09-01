@@ -9,3 +9,9 @@ From data preprocessing to forward and backward propagation, I demystify the key
 # Results
 
 The results for the final network created in NumPy had 92.55% accuracy to validation data when trained for 50 epochs.
+
+# Notebook
+
+[Notebook via GitHub](https://github.com/danplotkin/neural_network_numpy/blob/main/NeuralNetworkNumPy.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/neural_network_numpy/blob/main/NeuralNetworkNumPy.ipynb)
