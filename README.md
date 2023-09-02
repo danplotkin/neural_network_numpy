@@ -8,7 +8,7 @@ From data preprocessing to forward and backward propagation, I demystify the key
 
 # Results
 
-The results for the final network created in NumPy had 92.55% accuracy to validation data when trained for 50 epochs.
+The results for the final network created in NumPy had 92.57% accuracy to validation data when trained for 50 epochs.
 
 # Project Notebook
 
