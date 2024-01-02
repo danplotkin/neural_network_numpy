@@ -12,6 +12,4 @@ The results for the final network created in NumPy had 92.27% accuracy to valida
 
 # Project Notebook
 
-[View in GitHub](https://github.com/danplotkin/neural_network_numpy/blob/main/NeuralNetworkNumPy.ipynb)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/neural_network_numpy/blob/main/NeuralNetworkNumPy.ipynb)
